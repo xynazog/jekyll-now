@@ -8,6 +8,8 @@ published: true
 I guess I am gonna start every post of mine with a one liner from one of my favorite TV shows till date: Rick and Morty.
 ## Gists!
 One of the things I learnt today is about Gist. [Gist](https://gist.github.com/) is an amazing way to share your code. Sharing snippets? Single Files? Entire Applications? Use Gists!  
+Here's an example:  
+{% gist 623b33f189850b38a808d5cd7936675d %}  
 No need to use pastebin for sharing code anymore (unless you are just using it for temporary copy pasting stuff).
 There are 2 types of gists: Public and Secret. Ready to share your ideas with the world? More of an open-source person? Use Public gists.  
 Wanna jot down a bucket list? Wanna write some code for your own startup? Use Secret gists and share the URL!
