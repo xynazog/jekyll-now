@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Morty, do not look now but the battle is about to start
+title: Morty!
 published: true
 ---
 I am a Masters student at Courant Institute of Mathematical Sciences, majoring in Computer Science. I am planning to shift to Jekyll and will try updating this blog with the interesting and essential stuff I learn everyday. Looking forward to a great journey!
